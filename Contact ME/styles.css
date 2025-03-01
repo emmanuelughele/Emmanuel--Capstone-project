@@ -97,14 +97,14 @@ body {
 }
 
 .contact-item a {
-    color: #f5a623;
+    color: #ccc;
     text-decoration: none;
     font-size: 16px;
     transition: color 0.3s ease-in-out;
 }
 
 .contact-item a:hover {
-    color: #ffd700;
+    color: #ccc;
 }
 
 /* Footer Text */
